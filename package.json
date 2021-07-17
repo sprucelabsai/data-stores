@@ -69,7 +69,7 @@
     "@types/mongodb": "^3.6.20",
     "dotenv": "^10.0.0",
     "globby": "^11.0.4",
-    "mongodb": "^3.6.10",
+    "mongodb": "^4.0.0",
     "nedb": "^1.8.0"
   },
   "devDependencies": {
@@ -82,7 +82,7 @@
     "@sprucelabs/test-utils": "latest",
     "@types/lodash": "^4.14.171",
     "@types/nedb": "^1.8.12",
-    "@types/node": "^16.3.1",
+    "@types/node": "^16.3.3",
     "chokidar-cli": "^2.1.0",
     "concurrently": "^6.2.0",
     "eslint": "^7.30.0",
